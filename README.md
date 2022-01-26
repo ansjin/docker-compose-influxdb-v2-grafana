@@ -1,4 +1,4 @@
-# docker-compose-influxdb-v2-grafana  [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](hhttps://github.com/ansjin/docker-compose-influxdb-v2-grafana/blob/main/LICENSE)
+# docker-compose-influxdb-v2-grafana [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ansjin/docker-compose-influxdb-v2-grafana/blob/main/LICENSE)
 
 This repository is for building multi-container application with : 
 1. [InfluxDB_v2](https://www.influxdata.com/blog/influxdb-2-0-open-source-is-generally-available/) - a time series database
